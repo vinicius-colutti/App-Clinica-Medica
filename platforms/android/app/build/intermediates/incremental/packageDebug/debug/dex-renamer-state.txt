@@ -1,0 +1,4 @@
+#Thu Jun 28 17:03:24 BRT 2018
+base.0=C\:\\Users\\Colutti\\Documents\\APLICATIVO_GUILHERME\\myapp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\Colutti\\Documents\\APLICATIVO_GUILHERME\\myapp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
